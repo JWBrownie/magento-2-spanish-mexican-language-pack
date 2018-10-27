@@ -8,6 +8,7 @@
     "require": {
         "magento/framework": "100.0.*"
     },
+    "minimum-stability": "dev",
     "type": "magento2-language",
     "autoload": {
         "files": [
