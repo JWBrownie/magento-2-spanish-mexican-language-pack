@@ -6,9 +6,9 @@
         "MIT"
     ],
     "require": {
-        "magento/framework": "100.*"
+        "magento/framework": "~100|~101"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "type": "magento2-language",
     "autoload": {
         "files": [
