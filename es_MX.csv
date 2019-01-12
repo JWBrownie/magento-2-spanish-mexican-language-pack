@@ -2797,7 +2797,7 @@
 "Zip/Postal Code","Código Postal",module,Magento_Checkout
 "My Cart (1 item)","Mi carrito (1 producto)",module,Magento_Checkout
 "My Cart (%1 items)","Mi carrito (%1 artículos)",module,Magento_Checkout
-"My Cart","Mi cesta",module,Magento_Checkout
+"My Cart","Mi Carrito",module,Magento_Checkout
 "For delivery questions.","Para preguntas de entrega.",module,Magento_Checkout
 "Customer is already registered","Cliente ya está registrado",module,Magento_Checkout
 "Your session has expired","Tu sesión ha caducado",module,Magento_Checkout
